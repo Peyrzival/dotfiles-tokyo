@@ -12,3 +12,4 @@
  * to complete firefox modification, place the directory chrome in ~/.mozilla/firefox/your_release.default-release/ 
  * my [startpage](https://peyrzival.github.io/startpage/), to put it as a new tab in firefox use this [extension](https://addons.mozilla.org/pt-BR/firefox/addon/new-tab-override/)
  * my text editor is doom emacs, i use the [dtos-configs](https://gitlab.com/dtos/dtos)
+ * put the directory bin/ in $HOME/.local/
