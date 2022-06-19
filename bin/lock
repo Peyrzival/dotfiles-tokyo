@@ -10,7 +10,7 @@ verify='#ABE9B3'
 
 greet="Welcome, Back $USER"
 wrong_pass="Incorrect, Try Again"
-font="JetBrains Mono"
+font="Space Mono NF"
 background="$HOME/.lock.png"
 
 i3lock \
