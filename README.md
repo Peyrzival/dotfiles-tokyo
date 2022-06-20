@@ -11,5 +11,5 @@
  * to modify firefox follow this [instructions](https://github.com/andreasgrafen/cascade#how-to-use-a-userchromecss-theme), specifically the about:config part
  * to complete firefox modification, place the directory chrome in ~/.mozilla/firefox/your_release.default-release/ 
  * my [startpage](https://peyrzival.github.io/startpage/), to put it as a new tab in firefox use this [extension](https://addons.mozilla.org/pt-BR/firefox/addon/new-tab-override/)
- * my text editor is doom emacs, i use the [dtos-configs](https://gitlab.com/dtos/dtos)
+ * my text editor is doom emacs, i use the [distro tube config](https://gitlab.com/dwt1/dotfiles)
  * put the directory bin/ in $HOME/.local/, is necessary for some keybindings to work
