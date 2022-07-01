@@ -15,3 +15,4 @@
  * put the directory bin/ in $HOME/.local/, is necessary for some keybindings to work
  * i use fish as main shell with some aliases, if you want, its at config/fish/ (this configuration file is derived from the [distrotube dotfiles](https://gitlab.com/dwt1/dotfiles) but contains some modifications)
  * to better experience with fish, i recommend you to install [starship](https://starship.rs). my config file of starship is at config/starship.toml 
+ * i use a [picom fork](https://github.com/pijulius/picom) to have fluffy animations, the conf of this is in the directory config
