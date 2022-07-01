@@ -10,7 +10,7 @@
  * Change some values in polybar like wlan for your specific wifi adapter, battery module, etc.
  * to modify firefox follow this [instructions](https://github.com/andreasgrafen/cascade#how-to-use-a-userchromecss-theme), specifically the about:config part
  * to complete firefox modification, place the directory chrome in ~/.mozilla/firefox/your_release.default-release/ 
- * my [startpage](https://peyrzival.github.io/startpage/), to put it as a new tab in firefox use this [extension](https://addons.mozilla.org/pt-BR/firefox/addon/new-tab-override/)
+ * my [startpage](https://peyrzival.github.io/startpage/) (a fork of [nwvh startpage](https://github.com/nwvh/startpage)), to put it as a new tab in firefox use this [extension](https://addons.mozilla.org/pt-BR/firefox/addon/new-tab-override/)
  * my text editor is doom emacs, i use the config of [distrotube dot](https://gitlab.com/dwt1/dotfiles)
  * put the directory bin/ in $HOME/.local/, is necessary for some keybindings to work
  * i use fish as main shell with some aliases, if you want, its at config/fish/ (this configuration file is derived from the [distrotube dotfiles](https://gitlab.com/dwt1/dotfiles) but contains some modifications)
