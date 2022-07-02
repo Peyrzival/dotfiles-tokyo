@@ -219,6 +219,7 @@ alias gpg-retrieve="gpg2 --keyserver-options auto-key-retrieve --receive-keys"
 
 # todo
 todo list
+jfetch
 
 ### SETTING THE STARSHIP PROMPT ###
 starship init fish | source
