@@ -18,3 +18,4 @@
  * i use a [picom fork](https://github.com/pijulius/picom) to have fluffy animations, the conf of this is in the directory config
  * `yay -S todo
 `, a todo manager
+ * install scrot and [cliblur](https://gitlab.com/kerkmann/cliblur) to lockscreen works
