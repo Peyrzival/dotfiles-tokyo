@@ -2,17 +2,20 @@
 
 # color
 blank='#00000000'
-clear='#E8A2AF'
-ring='#161320'
-text='#D9E0EE'
-wrong='#F28FAD'
-verify='#ABE9B3'
+clear='#d3869b'
+ring='#1d2021'
+text='#ebdbb2'
+wrong='#cc241d'
+verify='#689d6a'
 
 greet="Welcome, Back $USER"
 wrong_pass="Incorrect, Try Again"
 font="Space Mono NF"
 background="$HOME/.lock.png"
+IMAGE=/tmp/lock.png
 
+scrot -q 100 $IMAGE
+cliblur -s 5 -r gaussian -R gaussian $IMAGE
 i3lock \
   --nofork \
   --ignore-empty-password \
@@ -51,6 +54,6 @@ i3lock \
   --wrong-size=24 \
   --wrong-text="$wrong_pass" \
   --wrong-color=$wrong \
-  -i $background \
+  -i $IMAGE \
   --time-pos="175:668" \
   --keylayout 1 \
