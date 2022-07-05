@@ -17,4 +17,4 @@
  * to better experience with fish, i recommend you to install [starship](https://starship.rs). my config file of starship is at config/starship.toml 
  * i use a [picom fork](https://github.com/pijulius/picom) to have fluffy animations, the conf of this is in the directory config
  * `yay -S todo
-`
+`, a todo manager
