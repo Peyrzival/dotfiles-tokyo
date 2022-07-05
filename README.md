@@ -16,6 +16,6 @@
  * i use fish as main shell with some aliases, if you want, its at config/fish/ (this configuration file is derived from the [distrotube dotfiles](https://gitlab.com/dwt1/dotfiles) but contains some modifications). install [jfetch](https://github.com/Jimmysit0/jfetch) for informations when you open the terminal
  * to better experience with fish, i recommend you to install [starship](https://starship.rs). my config file of starship is at config/starship.toml 
  * i use a [picom fork](https://github.com/pijulius/picom) to have fluffy animations, the conf of this is in the directory config
- *  '''
+ *  ```
  yay -S todo
- '''
+ ```
