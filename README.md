@@ -5,7 +5,7 @@
 
 ## Important
  * Fonts needed: Space Mono NF (i recommend this [pre-release version](https://github.com/ryanoasis/nerd-fonts/releases)), material design icons and feather icons (included in directory usr/)
- * Music player: i use [spotify-tui](https://github.com/Rigellute/spotify-tui), my config for colors is not perfect but i tried.
+ * Music player: i use [spotify-tui](https://github.com/Rigellute/spotify-tui), my config for colors is not perfect but i tried, you also have to install spotifyd to use spotify-tui
  * if you want, you can use [sptlrx](https://github.com/raitonoberu/sptlrx) for lyrics in your terminal, works great with a combination of spotify-tui and sptlrx.
  * Change some values in polybar like wlan for your specific wifi adapter, battery module, etc.
  * to modify firefox follow this [instructions](https://github.com/andreasgrafen/cascade#how-to-use-a-userchromecss-theme), specifically the about:config part
